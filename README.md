@@ -18,6 +18,7 @@ Modifie `.env.local` :
 ```env
 MAILER_DSN=smtp://localhost:1025
 MAILER_NO_REPLY_EMAIL=noreply@vroumvroum.fr
+MAILER_REPLY_EMAIL=support@vroumvroum.fr
 MAILER_FROM_NAME="Vroum Vroum"
 MAILER_API_KEY_NAME=X-API-KEY
 MAILER_API_KEY_VALUE=supersecretkey
